@@ -35,4 +35,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Linting setup
 
-The project uses the [Airbnb javaScript style guide](https://github.com/airbnb/javascript) for eslint rules, [prettier](https://prettier.io/) for auto-formatting and [husky](https://github.com/typicode/husky) to enforce eslint rules with the pre-commit hook.
+The project uses [Airbnb JavaScript](https://github.com/airbnb/javascript) eslint rules, [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin) eslint rules, [prettier](https://prettier.io/) for auto-formatting and [husky](https://github.com/typicode/husky) to enforce eslint rules with the pre-commit hook.
+
+## Storybook
+
+[Storybook](https://storybook.js.org/) is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation. Storybook is setup on this project to to improve UI development and design consistency.
+
+## Next steps
+
+- Setup Redux
+- Setup TailwindCSS
+- Test Vercel Deployment
